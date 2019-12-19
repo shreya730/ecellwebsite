@@ -2,16 +2,16 @@
 This is E-CELL SGSITS website 
 
 
-# Steps
-1. Download Node.js
-2. install packages using 
-npm i express --save
-npm i ejs --save
-npm i body-parser --save
-npm i firebase --save
-npm i serve-favicon --save
-3. run-> node app.js
-(in the root directory)
+# Steps<br />
+1. Download Node.js<br />
+2. install packages using<br />
+npm i express --save<br />
+npm i ejs --save<br />
+npm i body-parser --save<br />
+npm i firebase --save<br />
+npm i serve-favicon --save<br />
+3. run-> node app.js<br />
+(in the root directory)<br />
 
 
 # complete the team.ejs 
